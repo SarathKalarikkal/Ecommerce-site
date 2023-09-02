@@ -654,7 +654,7 @@ border-radius: 6px;
         background-position: 55%;
     }
     #feature{
-        justify-content: center;
+        justify-content: space-between;
     }
     #feature .feature-box{
         width: 190px;
